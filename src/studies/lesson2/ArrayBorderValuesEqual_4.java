@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class ArrayBorderValuesEqual {
+public class ArrayBorderValuesEqual_4 {
 
 	public static void main (String[] args) {
 				

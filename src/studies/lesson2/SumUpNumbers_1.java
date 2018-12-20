@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class SumUpNumbers {
+public class SumUpNumbers_1 {
 
 	public static void main (String[] args) {
 		

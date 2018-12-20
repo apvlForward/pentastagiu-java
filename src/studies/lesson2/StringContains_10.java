@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class StringContains {
+public class StringContains_10 {
 
 	public static void main (String[] args) {
 				

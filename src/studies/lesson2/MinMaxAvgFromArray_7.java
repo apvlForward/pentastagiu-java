@@ -1,8 +1,8 @@
-package studies;
+package studies.lesson2;
 
 import java.util.Locale;
 
-public class MinMaxAvgFromArray {
+public class MinMaxAvgFromArray_7 {
 
 	public static void main (String[] args) {
 				

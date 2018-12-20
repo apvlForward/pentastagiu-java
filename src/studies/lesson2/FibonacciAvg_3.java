@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class FibonacciAvg {
+public class FibonacciAvg_3 {
 
 	public static void main (String[] args) {
 		

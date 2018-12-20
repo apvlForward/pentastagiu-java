@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class TwoArraysEqual {
+public class TwoArraysEqual_5 {
 
 	public static void main (String[] args) {
 				

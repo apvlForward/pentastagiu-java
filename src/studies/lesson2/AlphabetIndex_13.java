@@ -1,9 +1,9 @@
-package studies;
+package studies.lesson2;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class AlphabetIndex {
+public class AlphabetIndex_13 {
 
 	public static void main (String[] args) {
 				

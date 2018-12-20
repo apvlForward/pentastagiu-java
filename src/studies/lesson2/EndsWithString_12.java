@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class EndsWithString {
+public class EndsWithString_12 {
 
 	public static void main (String[] args) {
 				

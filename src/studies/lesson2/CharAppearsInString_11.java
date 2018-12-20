@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class CharAppearsInString {
+public class CharAppearsInString_11 {
 
 	public static void main (String[] args) {
 				

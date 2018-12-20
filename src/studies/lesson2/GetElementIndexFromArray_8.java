@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class GetElementIndexFromArray {
+public class GetElementIndexFromArray_8 {
 
 	public static void main (String[] args) {
 				

@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class Palindrome {
+public class Palindrome_15 {
 
 	public static void main (String[] args) {
 				

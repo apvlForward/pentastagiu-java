@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class AverageAndSum {
+public class AverageAndSum_2 {
 
 	public static void main (String[] args) {
 		

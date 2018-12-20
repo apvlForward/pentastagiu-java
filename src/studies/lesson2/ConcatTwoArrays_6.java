@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class ConcatTwoArrays {
+public class ConcatTwoArrays_6 {
 
 	public static void main (String[] args) {
 				

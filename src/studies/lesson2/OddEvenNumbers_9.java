@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class OddEvenNumbers {
+public class OddEvenNumbers_9 {
 
 	public static void main (String[] args) {
 				

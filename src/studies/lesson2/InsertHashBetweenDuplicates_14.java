@@ -1,6 +1,6 @@
-package studies;
+package studies.lesson2;
 
-public class InsertHashBetweenDuplicates {
+public class InsertHashBetweenDuplicates_14 {
 
 	public static void main (String[] args) {
 				
